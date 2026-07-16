@@ -1,0 +1,16 @@
+.delete-document {
+  width: 100%;
+  margin-top: 10px;
+  border: 1px solid #414f6d;
+  background: transparent;
+  border-radius: 5px;
+  color: #97a7c5;
+  padding: 7px;
+  font-size: 10px;
+}
+
+.delete-document:hover {
+  color: #f7b2bd;
+  border-color: #99536a;
+  background: #2e1b2a;
+}
